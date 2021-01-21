@@ -1,0 +1,10 @@
+Palavra reservada print() deve conter parentreses:
+print'(' exp ')'
+
+
+
+execução:
+1. make
+2. ./main
+
+
